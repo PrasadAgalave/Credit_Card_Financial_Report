@@ -1,2 +1,3 @@
 # Credit_Card_Financial_Report
-Power Bi Dashboard
+
+Credit_Card_Transaction_Report and Credet_Card_Customer_Report Using Power Bi.
